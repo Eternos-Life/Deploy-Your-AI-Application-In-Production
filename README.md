@@ -1,6 +1,6 @@
 <!---------------------[  Description  ]------------------<recommended> section below------------------>
 
-# Deploy your AI Application in Production
+# Deploy your AI Application in Production - UARE.ai Guide
 
 ## Overview
 
